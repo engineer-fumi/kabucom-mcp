@@ -4,6 +4,7 @@ au カブコム証券（三菱UFJ eスマート証券）の [kabu STATION API](h
 
 ## 前提条件
 
+- Windows 11（[動作環境](https://kabu.com/support/requirements.html)）
 - [kabu STATION](https://kabu.com/kabustation/default.html) デスクトップアプリがローカルで起動・ログイン済みであること
 - kabu STATION API が有効化されていること（kabu STATION Professional プラン以上）
 - Node.js 18 以上
