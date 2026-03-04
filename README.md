@@ -4,7 +4,7 @@ au カブコム証券（三菱UFJ eスマート証券）の [kabu STATION API](h
 
 ## 前提条件
 
-- [kabu STATION](https://kabu.com/item/kabustation/) デスクトップアプリがローカルで起動・ログイン済みであること
+- [kabu STATION](https://kabu.com/kabustation/default.html) デスクトップアプリがローカルで起動・ログイン済みであること
 - kabu STATION API が有効化されていること（kabu STATION Professional プラン以上）
 - Node.js 18 以上
 
